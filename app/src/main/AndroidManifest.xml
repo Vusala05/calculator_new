@@ -19,6 +19,12 @@
             android:name=".PlusActivity"
             android:exported="false" />
         <activity
+            android:name=".BolmeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VurmaActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
