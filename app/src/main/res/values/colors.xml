@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="mavii">#F186AA</color>
+    <color name="mavi">#6893B5</color>
+    <color name="maviii">#E1A6EC</color>
 </resources>
