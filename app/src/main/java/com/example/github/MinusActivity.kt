@@ -18,5 +18,6 @@ class MinusActivity : AppCompatActivity() {
         // Retrieve the result from the Intent
         val result = intent.getDoubleExtra("RESULT", 0.0)
         binding.ResultTextView.text = result.toString()
+
     }
 }
