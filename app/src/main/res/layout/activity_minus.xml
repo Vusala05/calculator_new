@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#8FBBE3"
     tools:context=".MinusActivity">
     <TextView
         android:id="@+id/ResultTextView"
