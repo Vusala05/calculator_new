@@ -13,6 +13,12 @@
         android:theme="@style/Theme.Github"
         tools:targetApi="31">
         <activity
+            android:name=".MinusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PlusActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
